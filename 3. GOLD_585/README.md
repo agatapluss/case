@@ -29,9 +29,7 @@
 Бот будет работать до 4 октября.
 
 ![photo_2022-09-30_15-31-15](https://user-images.githubusercontent.com/81646675/193414904-fe0fa904-cffb-4c1d-bf6c-879a9b94b4ba.jpg)
-![photo_2022-09-30_15-31-16](https://user-images.githubusercontent.com/81646675/193414926-1a0d57c1-a7df-4f06-9aff-febf61ad7bfa.jpg)
-![photo_2022-09-30_15-31-17](https://user-images.githubusercontent.com/81646675/193414931-f21717c4-a42e-4cdd-bf31-679105dd045f.jpg)
-![photo_2022-09-30_15-31-18 (2)](https://user-images.githubusercontent.com/81646675/193414937-e5dfeb1c-b0b2-4be6-87f2-fd2ee5669232.jpg)
+
 ![photo_2022-09-30_15-31-18](https://user-images.githubusercontent.com/81646675/193414941-c4d710c2-ec99-4e06-b162-3c1e762fd6c3.jpg)
 
 В основе бота лежит фейковая база. 
@@ -49,6 +47,9 @@
 </aside>
 
 В случае потребности можно добавить функции, которые будут выводить общее количество остатков, или же сегметрировать магазины по географии.
+
+![photo_2022-09-30_15-31-16](https://user-images.githubusercontent.com/81646675/193414926-1a0d57c1-a7df-4f06-9aff-febf61ad7bfa.jpg)
+![photo_2022-09-30_15-31-17](https://user-images.githubusercontent.com/81646675/193414931-f21717c4-a42e-4cdd-bf31-679105dd045f.jpg)
 
 ### Процесс информирования.
 
@@ -83,3 +84,4 @@ $$
 Второй необходимый звоночек должен звенеть, когда начали дарить подарки из $nz$.
 
 Поскольку это необходимое условие по заданию.
+![photo_2022-09-30_15-31-18 (2)](https://user-images.githubusercontent.com/81646675/193414937-e5dfeb1c-b0b2-4be6-87f2-fd2ee5669232.jpg)
