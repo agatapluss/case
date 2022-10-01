@@ -28,13 +28,11 @@
 
 Бот будет работать до 4 октября.
 
-В случа если он не будет отвечать, напишите мне в телеграм [https://t.me/agafonova_ds](https://t.me/agafonova_ds)
-
-![photo_2022-09-30_15-31-15.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f590e617-4708-4996-8449-ff34e847a163/photo_2022-09-30_15-31-15.jpg)
-
-![photo_2022-09-30_15-31-17.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f89f7a91-bf9a-4ec9-a47e-5715aa1ea35e/photo_2022-09-30_15-31-17.jpg)
-
-![photo_2022-09-30_15-31-16.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/099d7f55-2147-4ad2-8ae0-8b777c84c09c/photo_2022-09-30_15-31-16.jpg)
+![photo_2022-09-30_15-31-15](https://user-images.githubusercontent.com/81646675/193414904-fe0fa904-cffb-4c1d-bf6c-879a9b94b4ba.jpg)
+![photo_2022-09-30_15-31-16](https://user-images.githubusercontent.com/81646675/193414926-1a0d57c1-a7df-4f06-9aff-febf61ad7bfa.jpg)
+![photo_2022-09-30_15-31-17](https://user-images.githubusercontent.com/81646675/193414931-f21717c4-a42e-4cdd-bf31-679105dd045f.jpg)
+![photo_2022-09-30_15-31-18 (2)](https://user-images.githubusercontent.com/81646675/193414937-e5dfeb1c-b0b2-4be6-87f2-fd2ee5669232.jpg)
+![photo_2022-09-30_15-31-18](https://user-images.githubusercontent.com/81646675/193414941-c4d710c2-ec99-4e06-b162-3c1e762fd6c3.jpg)
 
 В основе бота лежит фейковая база. 
 
